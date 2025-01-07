@@ -4,7 +4,7 @@
   "editUrl": "",
   "colors": {
     "foreground": "#E5E8E9",
-    "background": "#38464D",
+    "background": "#213c76",
     "highlight": "#F58300",
     "content": "#E5E8E9",
     "text": "#575757",
@@ -17,25 +17,25 @@
       "id": "languages-and-frameworks",
       "title": "Languages & Frameworks",
       "description": "Include development languages and more low-level development frameworks, which help implement custom software of all kinds.",
-      "color": "#7092F5"
+      "color": "#91BDA6"
     },
     {
       "id": "methods-and-patterns",
       "title": "Techniques",
       "description": "Include elements of a software development process, such as continuous integration, and ways of creating software, such as progressive web applications.",
-      "color": "#535EAA"
+      "color": "#468CA3"
     },
     {
       "id": "platforms-and-aoe-services",
       "title": "Platforms",
       "description": "There are things that we build software on top of, such as mobile technologies like Android or generic kinds of platforms like Amazon Web Services.",
-      "color": "#436D84"
+      "color": "#E05E4D"
     },
     {
       "id": "tools",
       "title": "Tools",
       "description": "These can be components, like databases, software development tools, such as version control systems.",
-      "color": "#278489"
+      "color": "#E7A568"
     }
   ],
   "rings": [
