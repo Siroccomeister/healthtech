@@ -1,7 +1,7 @@
 {
-  "basePath": "/cht-tech-radar-contributors",
-  "baseUrl": "https://docs.communityhealthtoolkit.org/cht-tech-radar-contributors",
-  "editUrl": "https://github.dev/medic/cht-tech-radar-contributors/blob/main/radar/{release}/{id}.md",
+  "basePath": "/healthtech",
+  "baseUrl": "https://https://siroccomeister.github.io/healthtech",
+  "editUrl": "",
   "colors": {
     "foreground": "#E5E8E9",
     "background": "#38464D",
