@@ -11,3 +11,6 @@ BD is ranked #211 in the 2024 Fortune 500 list based on its revenues for the fis
 
 ![BD Logo](/BD_logo.png)
 
+<iframe width="400" noresize="noresize" scrolling="no" height="16" frameborder="0" src="https://widgets.tc2000.com/WidgetServer.ashx?id=201485"></iframe>
+
+
