@@ -9,4 +9,5 @@ Becton, Dickinson and Company (BD also Becton Dickinson or Becton) is an America
 
 BD is ranked #211 in the 2024 Fortune 500 list based on its revenues for the fiscal year ending September 30, 2023. 
 
-![BD Logo](/images/BD_(company)_logo.svg.png)
+![BD Logo](/images/BD_logo.png)
+
